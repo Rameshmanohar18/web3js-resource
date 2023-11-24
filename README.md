@@ -5,7 +5,7 @@ Certainly! Web3.js is a JavaScript library that allows you to interact with the 
 1. Understanding Blockchain Basics:
 Definition: Understand what a blockchain is, its decentralized nature, and how it ensures trust and security.
 Source Code Example: No specific code at this stage; focus on grasping the conceptual foundations.
-2. Setting Up a Local Blockchain Environment:
+2. Setting Up a Local Blockchain Environment:   
 Tools: Install tools like Ganache (for Ethereum) to set up a local blockchain environment for development.
 Source Code Example: None at this stage.
 3. Learning Solidity:
